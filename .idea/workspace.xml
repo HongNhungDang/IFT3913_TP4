@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff71111-40d8-4980-9ecd-7ef545c8e6fa" name="Default Changelist" comment="added updated outputs (whitebox)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9ff71111-40d8-4980-9ecd-7ef545c8e6fa" name="Default Changelist" comment="Added our names for the README.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
@@ -178,7 +177,7 @@
       <workItem from="1701786487734" duration="134000" />
       <workItem from="1701786635954" duration="120000" />
       <workItem from="1701786769954" duration="332000" />
-      <workItem from="1701886869187" duration="65000" />
+      <workItem from="1701886869187" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="added updated outputs (whitebox)">
       <option name="closed" value="true" />
@@ -188,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701804721729</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added our names for the README.txt">
+      <option name="closed" value="true" />
+      <created>1701886966195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701886966195</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +214,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added updated outputs (whitebox)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added updated outputs (whitebox)" />
+    <MESSAGE value="Added our names for the README.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added our names for the README.txt" />
   </component>
 </project>
